@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 3,
+  "versionId": "2d722ecb-a752-472b-bd4b-b097094d5ce6",
+  "exportHash": "4da37f1b02a54a100aa726fc04e7230d5a94010fde48a1d699b48f912c9a5257",
+  "sha256CompiledManifest": "2f3dec886f94a135040ea9506733fcff4443ccf414b14e6b298085c2d48a3dcd",
+  "counts": {
+    "pages": 3,
+    "snippets": 1
+  },
+  "githubRef": null,
+  "files": [
+    {
+      "path": "knowledge/qa-test-kb/index.md",
+      "hash": "1c80036be8b93fd56f4ad99ecd7f876afa7af44b52f473680c1d883a28acd2b0"
+    },
+    {
+      "path": "knowledge/qa-test-kb/pages/test_procedure_page.md",
+      "hash": "07bc1b57c409ff26db78f266b3362e80a12505628e3c5f1a2aeef91590c0796a"
+    },
+    {
+      "path": "knowledge/qa-test-kb/pages/test_procedure_page.md",
+      "hash": "51af236c5c19e61d9a881b7b0533723bbce108fc8c335a2b7e2633a12b82f466"
+    }
+  ]
+}
