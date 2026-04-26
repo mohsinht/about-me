@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 3,
+  "versionId": "7e95d21e-8784-4571-aeaa-a7ae253b04af",
+  "versionLabel": null,
+  "exportHash": "6cdee7717f6f6fa4edf5a5ae0755074e3588c61748dbcd82cb33e4b3ea0f7b6e",
+  "counts": {
+    "pages": 2,
+    "snippets": 0
+  },
+  "githubRef": null,
+  "files": [
+    {
+      "path": "knowledge/snippetgraph-docs/index.md",
+      "hash": "5c4d3ba22f472c76c800487a5a9902aaadfd3011001fca9963add8ec0ced27a2"
+    },
+    {
+      "path": "knowledge/snippetgraph-docs/pages/another_page.md",
+      "hash": "0812cd0366ef02a4c8ff093cfc37db53796add147d4093a8cebdc7c3be67734d"
+    }
+  ],
+  "sha256CompiledManifest": "c73c051493b07c5c2a07c21f4e80884025431271b90c07f086863557c3f02179"
+}
